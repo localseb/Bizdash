@@ -8,7 +8,3 @@ Bizdash is short for Business Dashboard. There are a couple of things that I not
 3. - Document retention ie. scanned invoices
 4. - SDS (Safety Data Sheets) and CofA (Certificates of Analysis) retention and easy way to disseminate them to customers
 5. - Product label generation. Currently have a working beta version for the chemical industry.
-
-
-
-
